@@ -1,0 +1,38 @@
+FTP
+Transmisión de archivos
+Hosting barato normal --> /public_html/ <-- FTP
+	index.php
+	images
+	leonidas.jpg
+www.dogecoin.com
+
+* No se maneja control de versione y cualquier cambio puede romper el codigo.
+
+
+---------------------------------------------------
+SISTEMA DE CONTORL DE VERSIONES
+
+SVN: Subversion / Mercurial / TFS / CVS / GIT
+
+Github
+1.Red Social de programadores.
+2. Web / Apps
+3. Mas Facil acceder a Git por Github
+
+====
+
+Repositorio de código GITHUB (master)
+
+1. Múltiples versiones del mismo código
+2. Cambios Delta
+	Base de datos atómica del codigo
+3. Historial de cada archivo
+4. Multiples personas sobre el mismo archivo
+5. CULPA AL CULPABLE
+6. Ramas (brenches)
+	* master(github.com) REPO PRINCIPAL
+	* master(disco duro) REPO LOCAL
+		* master
+			--- MERGE (esperimental - master)
+		* experimental local
+	* master (servidor.com) REPO PRODUCCION
